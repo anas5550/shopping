@@ -1,0 +1,59 @@
+.navbar {
+    color: white !important;
+}
+
+a {
+    font-size: 1rem;
+    text-decoration: none;
+    padding: 10px 0px 0px 10px;
+    display: inline-block;
+    margin: 2px 20px;
+}
+
+a:hover {
+    color: black;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.carousel-item img {
+    height: 400px !important;
+    width: 100%;
+}
+
+.carousel a {
+    color: black;
+}
+
+.carousel a:hover {
+    color: black;
+    border-bottom: none;
+}
+
+.fa-arrow-circle-left,
+.fa-arrow-circle-right {
+    font-size: 50px;
+}
+
+.card {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.card img {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+#iphone {
+    width: 100px;
+}
+
+.modal {
+    color: black;
+}
